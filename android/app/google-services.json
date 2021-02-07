@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239695134893",
+    "project_id": "edufly-b5f53",
+    "storage_bucket": "edufly-b5f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239695134893:android:9343546921df13acb8c624",
+        "android_client_info": {
+          "package_name": "com.flaton.edufly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239695134893-s8qo7kg1tbn4qnbu12tqt2gcv5n3lnk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiRnoPppdiF-NZkmTmSEOSTa27D4AOjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239695134893-s8qo7kg1tbn4qnbu12tqt2gcv5n3lnk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
